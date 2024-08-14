@@ -69,9 +69,3 @@ while True:
         print("<== Computer wins ==>")
     print("Do you want to play again? (Y/N)")
     ans = input()
-    # if ans in "Nn":
-    #     break
-    # elif ans in "Yy":
-    #     continue
-    # else:
-    #     print("Enter a valid input")
